@@ -2,6 +2,8 @@
   "name": "会动的js",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "git@github.com:linkjie/cv-demo.git",
+  "author": "linkj <413874345@qq.com>",
   "license": "MIT",
   "devDependencies": {
     "cssnano": "^4.1.10"
